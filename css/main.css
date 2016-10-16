@@ -16,19 +16,18 @@ body {
   display: inline-block;
   border: 3px solid #9a816d;
   border-radius: 5px;
-  background-color: #cabdb2;
+  background-color: #dcd4cd;
   margin: 0.25em;
   padding: 1em;
   color: #512200;
   text-decoration: none;
-  opacity: 0.75;
 }
 
 .link-card:hover {
-  opacity: 1;
+  background-color: #cabdb2;
 }
 
-h2 {
+.link-card h2 {
   margin-top: 0;
   font-family: "Dosis", sans-serif;
   font-size: 1.5rem;
